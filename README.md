@@ -1,6 +1,6 @@
 # ShadowBackup-Hunter
 
-**First-line ransomware early detection utilities** focused on **Shadow-Copy and Backup Hunting** (MITRE ATT&CK T1490 – Inhibit System Recovery).
+**First-line ransomware early detection utilities** focused on **Shadow-Copy and Backup Hunting**.
 
 Ransomware operators almost always try to destroy recovery options (Volume Shadow Copies, snapshots, backup catalogs) **before** encryption begins. Catching this activity gives defenders hours or even days of warning.
 
